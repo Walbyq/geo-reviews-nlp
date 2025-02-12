@@ -1,1 +1,1 @@
-# geo-reviews-nlp
+# yandex-maps-reviews-nlp
